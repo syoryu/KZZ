@@ -11,7 +11,7 @@
 #### kzz_backend👉在配置文件中替换自己数据库配置信息
 #### kzz_auth_server👉此文件用于参考如何自动化登录教务系统并抓取数据
 ## 🥑页面概览
-![300](https://github.com/syoryu/KZZ/assets/71580231/dacf01c2-996e-4ab3-8d8a-30d766beb3c5)
+![10](https://github.com/syoryu/KZZ/assets/71580231/dacf01c2-996e-4ab3-8d8a-30d766beb3c5)
 ![300](https://github.com/syoryu/KZZ/assets/71580231/76c632d5-b1a6-4f4a-a6e4-543131e00e11)
 ![300](https://github.com/syoryu/KZZ/assets/71580231/728f3494-ff75-428e-866c-c2253f21bcbc)
 ![300](https://github.com/syoryu/KZZ/assets/71580231/3b8a954b-2b2e-4307-9c1e-67355aae9848)
